@@ -1,0 +1,7 @@
+{
+  "name": "FinAnalyzer",
+  "description": "Alat analisis fundamental laporan keuangan manual, rasio otomatis, skor Piotroski, klasifikasi kualitas emiten, dan workspace konsensus tim.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
